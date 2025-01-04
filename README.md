@@ -1,1 +1,1 @@
-# LangChain Document Chat Demo
+# LangChain Document Chat
